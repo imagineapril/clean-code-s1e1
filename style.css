@@ -47,7 +47,7 @@ body {
   list-style:none;
 }
 
-input,button{
+input,button {
   outline:none;
 }
 
@@ -129,7 +129,7 @@ input#new-task {
   width: 226px;
 }
 
-.task-item >    input[type="text"] {
+.task-item > input[type="text"] {
   width: 226px
 }
 
